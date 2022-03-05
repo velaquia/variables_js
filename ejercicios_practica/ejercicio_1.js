@@ -10,9 +10,9 @@
 // 1. Corrija los errores presentes en el código:
 
 /* ELIMINE ESTE COMENTARIO
-var nom bre = " otros";
-var accion "Programamos";
-vr negacion = ", no ";
+const nom bre = " otros";
+const accion "Programamos";
+const negacion = ", no ";
 para " para "
 quien = "nosotros mismos"
 
