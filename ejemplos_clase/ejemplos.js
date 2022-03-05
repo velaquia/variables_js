@@ -12,20 +12,20 @@ se utiliza para apertura y cierre estos simbolos
 
 //Asignacion de variables:
 
-var miNumero = 10;
+let miNumero = 10;
 
 //Variable de tipo Number:
-var miPrimeraCaja = 10;
+let miPrimeraCaja = 10;
 
 //Variable de tipo String:
-var miSegundaCaja = "Este es un texto";
+let miSegundaCaja = "Este es un texto";
 
 //Variable de tipo Boolean:
-var miTercerCaja = true;
+let miTercerCaja = true;
 
 // Operadores aritméticos: +,-,*,/
-var numero1 = 10;
-var numero2 = 5;
+const numero1 = 10;
+const numero2 = 5;
  
 console.log(numero1 + numero2);
 console.log(numero1 - numero2);
@@ -35,10 +35,10 @@ console.log(numero1 / numero2);
 // Uso de concatenadores!
 
 // Declaración de variables
-var texto1 = "Mi nombre es";
-var nombre = "carlos";
-var nacimiento = 1990;
-var texto2 = "nací en el año:";
+const texto1 = "Mi nombre es";
+const nombre = "carlos";
+const nacimiento = 1990;
+const texto2 = "nací en el año:";
 
 //Impresión por consola de variables:
 console.log(texto1 + nombre + texto2 + nacimiento);
@@ -48,7 +48,7 @@ console.log(texto1 + " " + nombre + ", " + texto2 + " " + nacimiento);
 
 // Acumuladores:
 
-var acumulador = 0;
+let acumulador = 0;
 
 acumulador = acumulador + 1;
 console.log("acumulador vale: " + acumulador);
