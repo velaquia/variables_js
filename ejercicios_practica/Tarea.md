@@ -4,7 +4,7 @@ Los ejercicios en los script de ejercitacion están comentados, de manera que de
 
 ```
 /* ELIMINE ESTE COMENTARIO
-var textoNumero = undefined; // <-- aquí está el código del ejercicio en un comentario largo
+let textoNumero = undefined; // <-- aquí está el código del ejercicio en un comentario largo
 console.log("etc");
 */
 ```
@@ -12,7 +12,7 @@ console.log("etc");
 Se debe quitar los caracteres de comentario largo /*  */ para poder realizar el ejercicio:
 
 ```
-var textoNumero = undefined; // <-- aquí está el código del ejercicio sin el comentario largo
+let textoNumero = undefined; // <-- aquí está el código del ejercicio sin el comentario largo
 console.log("etc");
 ```
 Ante cualquier inquietud, comuniquese con el profesor  por medio del campus.
