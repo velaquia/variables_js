@@ -12,7 +12,7 @@
 //    de código el numero 100, comenzando desde el 1.
 
 /* ELIMINE ESTE COMENTARIO
-var acumulador = 1; //No utilizar mas variables ;D
+let acumulador = 1; //No utilizar mas variables ;D
 //primer paso:
 
 //segundo paso:
@@ -24,6 +24,6 @@ var acumulador = 1; //No utilizar mas variables ;D
 //quinto paso:
 
 //Imprimimos en consola:
-console.log("El resultado del programa es: "+ acumulador); 
+console.log("El resultado del programa es: " + acumulador); 
 // El resultado debe ser 100
 */
