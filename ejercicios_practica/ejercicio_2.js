@@ -12,9 +12,8 @@
 //    entregue como resultado 10:
 
 /* ELIMINE ESTE COMENTARIO
-var numera dor = 100;
-var denominador10;
-cociente
+let numera dor = 100;
+let denominador10;
 cociente = numerador / denominador;
 
 console.log(cociente;
