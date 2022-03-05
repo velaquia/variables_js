@@ -13,9 +13,9 @@
 //    manteniendo las operaciones de división.
 
 /* ELIMINE ESTE COMENTARIO
-var numerador = 25;
-var denominador = 25 - numerador;
-var resultado = numerador/denominador;
+let numerador = 25;
+let denominador = 25 - numerador;
+let resultado = numerador/denominador;
 
 console.log(resultado/resultado);
 */
