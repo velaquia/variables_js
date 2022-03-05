@@ -16,5 +16,5 @@
 //    13
 
 /* ELIMINE ESTE COMENTARIO
-var textoNumero = undefined;
+let textoNumero = "El numero";
 */
