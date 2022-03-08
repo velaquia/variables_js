@@ -15,6 +15,6 @@ Se debe quitar los caracteres de comentario largo /*  */ para poder realizar el 
 let textoNumero = undefined; // <-- aquí está el código del ejercicio sin el comentario largo
 console.log("etc");
 ```
-Ante cualquier inquietud, comuniquese con el profesor  por medio del campus.
+Ante cualquier inquietud, comuniquese con el profesor.
 
 ##### Éxitos!
