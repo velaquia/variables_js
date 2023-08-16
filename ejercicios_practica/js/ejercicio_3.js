@@ -14,7 +14,7 @@
 
 
 let numerador = 25;
-let denominador = 25;
+let denominador = 25 - numerador + 1;
 let resultado = numerador / denominador;
 
 console.log(resultado / resultado);
