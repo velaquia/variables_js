@@ -15,6 +15,18 @@
 //    me trae mas suerte que el numero 
 //    13
 
-/* ELIMINE ESTE COMENTARIO
 let textoNumero = "El numero";
-*/
+console.log(textoNumero) 
+    if (true); {
+        let textoNumero = 7;
+        console.log(textoNumero);
+            if (true); {
+                let textoNumero = "me trae mas suerte que el numero";
+                console.log(textoNumero);
+                    if (true); {
+                        let textoNumero = 13;
+                        console.log(textoNumero);
+                    }
+            }
+}
+
