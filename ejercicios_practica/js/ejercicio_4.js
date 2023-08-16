@@ -14,7 +14,7 @@
 
 let acumulador = 1; //No utilizar mas variables ;D
 while (acumulador < 100)
-    acumulador = acumulador + 1;
+    acumulador = acumulador - numerador + 1;
 
 //Imprimimos en consola:
 console.log("El resultado del programa es: " + acumulador); 
